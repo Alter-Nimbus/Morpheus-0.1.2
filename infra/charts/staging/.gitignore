@@ -1,0 +1,8 @@
+.terraform*
+!.terraform.lock.hcl
+kubectl
+terraform.tfstate*
+terraform.tfvars
+kubeconfig*
+myKey.pem
+backend.conf
